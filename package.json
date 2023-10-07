@@ -1,0 +1,26 @@
+{
+  "name": "pedro-henrique",
+  "version": "1.0.0",
+  "description": "Lista de acesso a evento corporativo!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedrohsVitoria/Pedro-Henrique.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedrohsVitoria/Pedro-Henrique/issues"
+  },
+  "homepage": "https://github.com/PedrohsVitoria/Pedro-Henrique#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
